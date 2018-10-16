@@ -1,0 +1,20 @@
+{
+  "name": "truncate-vue",
+  "version": "0.0.1",
+  "description": "VueJs to truncate string",
+  "main": "truncate.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enginkartal/truncate-vue.git"
+  },
+  "keywords": [
+    "VueJS",
+    "truncate"
+  ],
+  "author": "Engin Kartal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enginkartal/truncate-filter/issues"
+  },
+  "homepage": "https://github.com/enginkartal/truncate-filter#readme"
+}
