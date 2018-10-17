@@ -9,7 +9,7 @@ Vuejs to truncate string
  `yarn add truncate-vue`
 
   ``` js
-  import TruncateVue from 'vue-truncate-filter'
+  import TruncateVue from 'truncate-vue'
   Vue.use(TruncateVue)
   ```
 
